@@ -1,0 +1,14 @@
+  {
+      "chainId": 101,
+      "address": "2Z21GPCZSyrieTN3tYtPHUmuLWBffW9L86wqyZBj84Fv",
+      "symbol": "BROCCOLI",
+      "name": "BROCCOLI",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GsNzxJfFn6zQdJGeYsupJWzUAm57Ba7335mfhWvFiE9Z/logo.png",
+      "tags": [
+        "NFT"
+        ],
+      "extensions": {
+      "twitter": "https://twitter.com/CyberVillainz",
+     }
+ }
